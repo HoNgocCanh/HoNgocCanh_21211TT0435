@@ -1,0 +1,11 @@
+.contact-us {
+    width: 67vw;
+    margin: auto;
+}
+.contact-us form{
+    width: 700px;
+}
+.contact-us form input,textarea{
+    width: 250px;
+    float: right;
+}

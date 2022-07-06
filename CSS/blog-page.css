@@ -1,0 +1,44 @@
+.blog-page {
+    width: 68vw;
+    margin: auto;
+}
+.blog-page__content {
+    display: flex;
+    gap:5rem;
+}
+.one-content {
+    margin-top: 2rem;
+    line-height: 40px;
+}
+.one-content .date {
+    margin-top: 2rem;
+    font-size: 13px;
+    color: #afafaf;
+}
+.one-content .title {
+    font-size: 30px;
+}
+.one-content .sub-content {
+    font-size: 25px;
+    margin-top: 1.5rem ;
+    color: #afafaf;
+    margin-bottom: 1rem;
+}
+
+/* \e615 */
+.one-content .btn-read {
+    background-color: #434343;
+    border: none;
+    color: whitesmoke;
+    padding: 0 1rem;
+    margin-bottom: 5rem;
+}
+.content-grid-2 div{
+    font-size: 20px;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+.content-grid-2 p{
+    font-size: 14px;
+    color: #afafaf;
+}
